@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E92C7070-BD8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingMilitia.PlayBall.Auth.Reference", "src\CodingMilitia.PlayBall.Auth.Reference\CodingMilitia.PlayBall.Auth.Reference.csproj", "{98545D48-6E81-4CB4-B5D8-02EDC01AC218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingMilitia.PlayBall.Auth.Web", "src\CodingMilitia.PlayBall.Auth.Web\CodingMilitia.PlayBall.Auth.Web.csproj", "{973B0B8D-5776-4883-84EA-C23955F0440E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{98545D48-6E81-4CB4-B5D8-02EDC01AC218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98545D48-6E81-4CB4-B5D8-02EDC01AC218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98545D48-6E81-4CB4-B5D8-02EDC01AC218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973B0B8D-5776-4883-84EA-C23955F0440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973B0B8D-5776-4883-84EA-C23955F0440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973B0B8D-5776-4883-84EA-C23955F0440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973B0B8D-5776-4883-84EA-C23955F0440E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{98545D48-6E81-4CB4-B5D8-02EDC01AC218} = {E92C7070-BD84-4EAD-AAA0-E4321F649901}
